@@ -1,0 +1,96 @@
+name: BFForce3
+main: com.vark.BFForce.Main
+version: 3.0
+api-version: 1.16
+commands:
+    getforce:
+        description: Enable Force Powers
+        usage: /getforce
+        
+    forcepow:
+        description: Upgrade Force Powers
+        usage: /forcepow        
+
+
+permissions:
+    bfforce.get:
+        description: Get Force Powers
+        default: op
+   
+    bfforce.use:
+        description: Use the Force
+        default: op
+        
+    bfforce.lightning:
+        description: Use the Force Lightning
+        default: op
+        
+    bfforce.dash:
+        description: Use the Force Dash
+        default: op
+        
+        
+    bfforce.mindtrick:
+        description: Use the Force Mindtrick
+        default: op
+        
+        
+    bfforce.freeze:
+        description: Use the Force Freeze
+        default: op
+        
+        
+    bfforce.heal:
+        description: Force Heal other players
+        default: op
+        
+        
+    bfforce.lightning.II:
+        description: Use the Force Lightning Tier II
+        default: op
+        
+        
+    bfforce.dash.II:
+        description: Use the Force Dash Tier II
+        default: op
+        
+    bfforce.freeze.II:
+        description: Use the Force Freeze Tier II
+        default: op
+        
+    bfforce.mindtrick.II:
+        description: Use the Force Mind Trick Tier II
+        default: op
+
+    bfforce.repulse:
+        description: Use Force Repulse!
+        default: op
+        
+        
+    bfforce.storm:
+        description: Use Force Storm!
+        default: op
+        
+    bfforce.jump:
+        description: Use Force Jump!
+        default: op
+        
+    bfforce.choke:
+        description: Use Force Choke!
+        default: op
+        
+    bfforce.drain:
+        description: Use Force Drain!
+        default: op
+        
+    bfforce.drain.II:
+        description: Use Force Drain!
+        default: op
+        
+    bfforce.sense:
+        description: Use Force sense!
+        default: op        
+        
+    bfforce.choke:
+        description: Use Force Choke!
+        default: op 
